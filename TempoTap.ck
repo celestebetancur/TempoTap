@@ -7,7 +7,7 @@
 //
 // print in console the value (in "ms" and "second").
 // tap with space bar
-// check Live~Codin' repository for function mode of this patch
+// check Live~Coding repository for function mode of this patch
 
 
 Hid hi;
